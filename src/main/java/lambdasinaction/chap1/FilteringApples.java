@@ -3,6 +3,10 @@ package lambdasinaction.chap1;
 import java.util.*;
 import java.util.function.Predicate;
 
+/**
+ * @author Arpit
+ *
+ */
 public class FilteringApples{
 
     public static void main(String ... args){
